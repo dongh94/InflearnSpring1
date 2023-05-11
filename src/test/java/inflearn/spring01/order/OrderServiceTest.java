@@ -1,9 +1,9 @@
 package inflearn.spring01.order;
 
+import inflearn.spring01.AppConfig;
 import inflearn.spring01.member.Grade;
 import inflearn.spring01.member.Member;
 import inflearn.spring01.member.MemberService;
-import inflearn.spring01.member.MemberServiceImpl;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

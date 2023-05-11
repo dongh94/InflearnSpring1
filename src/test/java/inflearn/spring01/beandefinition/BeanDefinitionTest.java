@@ -1,11 +1,10 @@
 package inflearn.spring01.beandefinition;
 
-import inflearn.spring01.order.AppConfig;
+import inflearn.spring01.AppConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class BeanDefinitionTest {
     // factoryBeanName

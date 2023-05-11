@@ -2,6 +2,7 @@ package inflearn.spring01.discount;
 
 import inflearn.spring01.member.Grade;
 import inflearn.spring01.member.Member;
+import org.springframework.stereotype.Component;
 
 public class FixDiscountPolicy implements DiscountPolicy {
 

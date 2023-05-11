@@ -1,6 +1,8 @@
-package inflearn.spring01.member;
+package inflearn.spring01;
 
-import inflearn.spring01.order.AppConfig;
+import inflearn.spring01.member.Grade;
+import inflearn.spring01.member.Member;
+import inflearn.spring01.member.MemberService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

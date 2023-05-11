@@ -1,6 +1,6 @@
 package inflearn.spring01.member;
 
-import inflearn.spring01.order.AppConfig;
+import inflearn.spring01.AppConfig;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
